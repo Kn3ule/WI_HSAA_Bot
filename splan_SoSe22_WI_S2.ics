@@ -1,0 +1,1730 @@
+BEGIN:VCALENDAR
+PRODID:-//Progotec//StarPlan ics//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+TZURL:http://tzurl.org/zoneinfo/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETFROM:+005328
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:18930401T000000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19160430T230000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19161001T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:CEMT
+DTSTART:19450524T020000
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19450924T030000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19460101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220315T140000
+DTEND;TZID=Europe/Berlin:20220315T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031850
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220322T140000
+DTEND;TZID=Europe/Berlin:20220322T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031851
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220329T140000
+DTEND;TZID=Europe/Berlin:20220329T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031852
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220405T140000
+DTEND;TZID=Europe/Berlin:20220405T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031853
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220412T140000
+DTEND;TZID=Europe/Berlin:20220412T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031854
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220426T140000
+DTEND;TZID=Europe/Berlin:20220426T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031855
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220503T140000
+DTEND;TZID=Europe/Berlin:20220503T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031856
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220510T140000
+DTEND;TZID=Europe/Berlin:20220510T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031857
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220517T140000
+DTEND;TZID=Europe/Berlin:20220517T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031858
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220524T140000
+DTEND;TZID=Europe/Berlin:20220524T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031859
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220531T140000
+DTEND;TZID=Europe/Berlin:20220531T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031860
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220614T140000
+DTEND;TZID=Europe/Berlin:20220614T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031861
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220621T140000
+DTEND;TZID=Europe/Berlin:20220621T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031862
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220628T140000
+DTEND;TZID=Europe/Berlin:20220628T153000
+SUMMARY:Wirtschaftsrecht (32-74201)
+UID:6914323381188031863
+URL:https://aalen.instructure.com/enroll/77YTNF
+LOCATION:212\, Canvas
+DESCRIPTION:Wirtschaftsrecht (32-74201)\nMarkus Kiesel\nWI S2\nCanvas: https://aalen.instructure.com/enroll/77YTNF\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220316T140000
+DTEND;TZID=Europe/Berlin:20220316T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031864
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220323T140000
+DTEND;TZID=Europe/Berlin:20220323T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031865
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220330T140000
+DTEND;TZID=Europe/Berlin:20220330T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031866
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220406T140000
+DTEND;TZID=Europe/Berlin:20220406T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031867
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220413T140000
+DTEND;TZID=Europe/Berlin:20220413T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031868
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220420T140000
+DTEND;TZID=Europe/Berlin:20220420T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031869
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220427T140000
+DTEND;TZID=Europe/Berlin:20220427T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031870
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220504T140000
+DTEND;TZID=Europe/Berlin:20220504T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031871
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220511T140000
+DTEND;TZID=Europe/Berlin:20220511T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031872
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220518T140000
+DTEND;TZID=Europe/Berlin:20220518T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031873
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220525T140000
+DTEND;TZID=Europe/Berlin:20220525T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031874
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220601T140000
+DTEND;TZID=Europe/Berlin:20220601T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031875
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220615T140000
+DTEND;TZID=Europe/Berlin:20220615T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031876
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220622T140000
+DTEND;TZID=Europe/Berlin:20220622T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031877
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220629T140000
+DTEND;TZID=Europe/Berlin:20220629T153000
+SUMMARY:IT-Recht (32-74202)
+UID:6914323381188031878
+URL:https://aalen.instructure.com/enroll/L9B94F
+LOCATION:Canvas
+DESCRIPTION:IT-Recht (32-74202)\nAlexander Forssman\nWI S2\nCanvas: https://aalen.instructure.com/enroll/L9B94F\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220315T113000
+DTEND;TZID=Europe/Berlin:20220315T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031879
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220322T113000
+DTEND;TZID=Europe/Berlin:20220322T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031880
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220329T113000
+DTEND;TZID=Europe/Berlin:20220329T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031881
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220405T113000
+DTEND;TZID=Europe/Berlin:20220405T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031882
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220412T113000
+DTEND;TZID=Europe/Berlin:20220412T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031883
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220426T113000
+DTEND;TZID=Europe/Berlin:20220426T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031884
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220503T113000
+DTEND;TZID=Europe/Berlin:20220503T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031885
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220510T113000
+DTEND;TZID=Europe/Berlin:20220510T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031886
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220517T113000
+DTEND;TZID=Europe/Berlin:20220517T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031887
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220524T113000
+DTEND;TZID=Europe/Berlin:20220524T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031888
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220531T113000
+DTEND;TZID=Europe/Berlin:20220531T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031889
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220614T113000
+DTEND;TZID=Europe/Berlin:20220614T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031890
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220621T113000
+DTEND;TZID=Europe/Berlin:20220621T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031891
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220628T113000
+DTEND;TZID=Europe/Berlin:20220628T130000
+SUMMARY:Produktionsmanagement (32-74203)
+UID:6914323381188031892
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:102\, Canvas
+DESCRIPTION:Produktionsmanagement (32-74203)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220315T154500
+DTEND;TZID=Europe/Berlin:20220315T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031893
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220322T154500
+DTEND;TZID=Europe/Berlin:20220322T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031894
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220329T154500
+DTEND;TZID=Europe/Berlin:20220329T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031895
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220405T154500
+DTEND;TZID=Europe/Berlin:20220405T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031896
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220412T154500
+DTEND;TZID=Europe/Berlin:20220412T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031897
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220426T154500
+DTEND;TZID=Europe/Berlin:20220426T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031898
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220503T154500
+DTEND;TZID=Europe/Berlin:20220503T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031899
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220510T154500
+DTEND;TZID=Europe/Berlin:20220510T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031900
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220517T154500
+DTEND;TZID=Europe/Berlin:20220517T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031901
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220524T154500
+DTEND;TZID=Europe/Berlin:20220524T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031902
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220531T154500
+DTEND;TZID=Europe/Berlin:20220531T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031903
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220614T154500
+DTEND;TZID=Europe/Berlin:20220614T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031904
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220621T154500
+DTEND;TZID=Europe/Berlin:20220621T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031905
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220628T154500
+DTEND;TZID=Europe/Berlin:20220628T171500
+SUMMARY:Logistik (32-74204)
+UID:6914323381188031906
+URL:https://aalen.instructure.com/enroll/DK4J6X
+LOCATION:212\, Canvas
+DESCRIPTION:Logistik (32-74204)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/DK4J6X\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220316T094500
+DTEND;TZID=Europe/Berlin:20220316T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031907
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220316T113000
+DTEND;TZID=Europe/Berlin:20220316T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031908
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220323T094500
+DTEND;TZID=Europe/Berlin:20220323T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031909
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220323T113000
+DTEND;TZID=Europe/Berlin:20220323T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031910
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220330T094500
+DTEND;TZID=Europe/Berlin:20220330T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031911
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220330T113000
+DTEND;TZID=Europe/Berlin:20220330T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031912
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220406T094500
+DTEND;TZID=Europe/Berlin:20220406T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031913
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220406T113000
+DTEND;TZID=Europe/Berlin:20220406T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031914
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220413T094500
+DTEND;TZID=Europe/Berlin:20220413T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031915
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220413T113000
+DTEND;TZID=Europe/Berlin:20220413T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031916
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220420T094500
+DTEND;TZID=Europe/Berlin:20220420T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031917
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220420T113000
+DTEND;TZID=Europe/Berlin:20220420T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031918
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220427T094500
+DTEND;TZID=Europe/Berlin:20220427T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031919
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220427T113000
+DTEND;TZID=Europe/Berlin:20220427T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031920
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220504T094500
+DTEND;TZID=Europe/Berlin:20220504T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031921
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220504T113000
+DTEND;TZID=Europe/Berlin:20220504T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031922
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220511T094500
+DTEND;TZID=Europe/Berlin:20220511T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031923
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220511T113000
+DTEND;TZID=Europe/Berlin:20220511T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031924
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220518T094500
+DTEND;TZID=Europe/Berlin:20220518T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031925
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220518T113000
+DTEND;TZID=Europe/Berlin:20220518T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031926
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220525T094500
+DTEND;TZID=Europe/Berlin:20220525T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031927
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220525T113000
+DTEND;TZID=Europe/Berlin:20220525T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031928
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220601T094500
+DTEND;TZID=Europe/Berlin:20220601T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031929
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220601T113000
+DTEND;TZID=Europe/Berlin:20220601T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031930
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220615T094500
+DTEND;TZID=Europe/Berlin:20220615T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031931
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220615T113000
+DTEND;TZID=Europe/Berlin:20220615T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031932
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220622T094500
+DTEND;TZID=Europe/Berlin:20220622T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031933
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220622T113000
+DTEND;TZID=Europe/Berlin:20220622T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031934
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220629T094500
+DTEND;TZID=Europe/Berlin:20220629T111500
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031935
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220629T113000
+DTEND;TZID=Europe/Berlin:20220629T130000
+SUMMARY:Datenbanken (32-74205)
+UID:6914323381188031936
+URL:https://aalen.instructure.com/enroll/XN6BRT
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Datenbanken (32-74205)\nProf. Dr. Manfred Rössle\nWI S2\nCanvas: https://aalen.instructure.com/enroll/XN6BRT\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220317T140000
+DTEND;TZID=Europe/Berlin:20220317T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031937
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220324T140000
+DTEND;TZID=Europe/Berlin:20220324T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031938
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220331T140000
+DTEND;TZID=Europe/Berlin:20220331T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031939
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220407T140000
+DTEND;TZID=Europe/Berlin:20220407T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031940
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220421T140000
+DTEND;TZID=Europe/Berlin:20220421T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031941
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220428T140000
+DTEND;TZID=Europe/Berlin:20220428T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031942
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220505T140000
+DTEND;TZID=Europe/Berlin:20220505T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031943
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220512T140000
+DTEND;TZID=Europe/Berlin:20220512T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031944
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220519T140000
+DTEND;TZID=Europe/Berlin:20220519T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031945
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220602T140000
+DTEND;TZID=Europe/Berlin:20220602T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031946
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220623T140000
+DTEND;TZID=Europe/Berlin:20220623T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031947
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220630T140000
+DTEND;TZID=Europe/Berlin:20220630T153000
+SUMMARY:Statistik (32-74206)
+UID:6914323381188031948
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Statistik (32-74206)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220317T154500
+DTEND;TZID=Europe/Berlin:20220317T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031949
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220324T154500
+DTEND;TZID=Europe/Berlin:20220324T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031950
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220331T154500
+DTEND;TZID=Europe/Berlin:20220331T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031951
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220407T154500
+DTEND;TZID=Europe/Berlin:20220407T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031952
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220421T154500
+DTEND;TZID=Europe/Berlin:20220421T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031953
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220428T154500
+DTEND;TZID=Europe/Berlin:20220428T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031954
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220505T154500
+DTEND;TZID=Europe/Berlin:20220505T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031955
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220512T154500
+DTEND;TZID=Europe/Berlin:20220512T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031956
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220519T154500
+DTEND;TZID=Europe/Berlin:20220519T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031957
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220602T154500
+DTEND;TZID=Europe/Berlin:20220602T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031958
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220623T154500
+DTEND;TZID=Europe/Berlin:20220623T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031959
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220630T154500
+DTEND;TZID=Europe/Berlin:20220630T171500
+SUMMARY:Operations Research (32-74207)
+UID:6914323381188031960
+URL:https://aalen.instructure.com/enroll/AJ9GMA
+LOCATION:215\, Canvas
+DESCRIPTION:Operations Research (32-74207)\nProf. Dr. Christian Koot\nWI S2\nCanvas: https://aalen.instructure.com/enroll/AJ9GMA\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220314T140000
+DTEND;TZID=Europe/Berlin:20220314T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031961
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220314T154500
+DTEND;TZID=Europe/Berlin:20220314T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031962
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220321T140000
+DTEND;TZID=Europe/Berlin:20220321T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031963
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220321T154500
+DTEND;TZID=Europe/Berlin:20220321T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031964
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220328T140000
+DTEND;TZID=Europe/Berlin:20220328T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031965
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220328T154500
+DTEND;TZID=Europe/Berlin:20220328T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031966
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220404T140000
+DTEND;TZID=Europe/Berlin:20220404T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031967
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220404T154500
+DTEND;TZID=Europe/Berlin:20220404T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031968
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220411T140000
+DTEND;TZID=Europe/Berlin:20220411T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031969
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220411T154500
+DTEND;TZID=Europe/Berlin:20220411T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031970
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220425T140000
+DTEND;TZID=Europe/Berlin:20220425T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031971
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220425T154500
+DTEND;TZID=Europe/Berlin:20220425T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031972
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220502T140000
+DTEND;TZID=Europe/Berlin:20220502T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031973
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220502T154500
+DTEND;TZID=Europe/Berlin:20220502T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031974
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220509T140000
+DTEND;TZID=Europe/Berlin:20220509T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031975
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220509T154500
+DTEND;TZID=Europe/Berlin:20220509T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031976
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220516T140000
+DTEND;TZID=Europe/Berlin:20220516T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031977
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220516T154500
+DTEND;TZID=Europe/Berlin:20220516T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031978
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220523T140000
+DTEND;TZID=Europe/Berlin:20220523T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031979
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220523T154500
+DTEND;TZID=Europe/Berlin:20220523T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031980
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220530T140000
+DTEND;TZID=Europe/Berlin:20220530T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031981
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220530T154500
+DTEND;TZID=Europe/Berlin:20220530T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031982
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220613T140000
+DTEND;TZID=Europe/Berlin:20220613T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031983
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220613T154500
+DTEND;TZID=Europe/Berlin:20220613T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031984
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220620T140000
+DTEND;TZID=Europe/Berlin:20220620T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031985
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220620T154500
+DTEND;TZID=Europe/Berlin:20220620T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031986
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220627T140000
+DTEND;TZID=Europe/Berlin:20220627T153000
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031987
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:202\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220627T154500
+DTEND;TZID=Europe/Berlin:20220627T171500
+SUMMARY:Englisch 2 (32-74208)
+UID:6914323381188031988
+URL:https://aalen.instructure.com/enroll/EPWHH7
+LOCATION:105\, Canvas
+DESCRIPTION:Englisch 2 (32-74208)\nMaria Luisa Ribeiro Knobelspieß\nWI S2\nCanvas: https://aalen.instructure.com/enroll/EPWHH7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220314T094500
+DTEND;TZID=Europe/Berlin:20220314T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031989
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220314T113000
+DTEND;TZID=Europe/Berlin:20220314T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031990
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220321T094500
+DTEND;TZID=Europe/Berlin:20220321T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031991
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220321T113000
+DTEND;TZID=Europe/Berlin:20220321T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031992
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220328T094500
+DTEND;TZID=Europe/Berlin:20220328T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031993
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220328T113000
+DTEND;TZID=Europe/Berlin:20220328T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031994
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220404T094500
+DTEND;TZID=Europe/Berlin:20220404T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031995
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220404T113000
+DTEND;TZID=Europe/Berlin:20220404T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031996
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220411T094500
+DTEND;TZID=Europe/Berlin:20220411T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031997
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220411T113000
+DTEND;TZID=Europe/Berlin:20220411T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031998
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220425T094500
+DTEND;TZID=Europe/Berlin:20220425T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188031999
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220425T113000
+DTEND;TZID=Europe/Berlin:20220425T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032000
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220502T094500
+DTEND;TZID=Europe/Berlin:20220502T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032001
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220502T113000
+DTEND;TZID=Europe/Berlin:20220502T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032002
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220509T094500
+DTEND;TZID=Europe/Berlin:20220509T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032003
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220509T113000
+DTEND;TZID=Europe/Berlin:20220509T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032004
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220516T094500
+DTEND;TZID=Europe/Berlin:20220516T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032005
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220516T113000
+DTEND;TZID=Europe/Berlin:20220516T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032006
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220523T094500
+DTEND;TZID=Europe/Berlin:20220523T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032007
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220523T113000
+DTEND;TZID=Europe/Berlin:20220523T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032008
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220530T094500
+DTEND;TZID=Europe/Berlin:20220530T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032009
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220530T113000
+DTEND;TZID=Europe/Berlin:20220530T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032010
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220613T094500
+DTEND;TZID=Europe/Berlin:20220613T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032011
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220613T113000
+DTEND;TZID=Europe/Berlin:20220613T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032012
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220620T094500
+DTEND;TZID=Europe/Berlin:20220620T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032013
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220620T113000
+DTEND;TZID=Europe/Berlin:20220620T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032014
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220627T094500
+DTEND;TZID=Europe/Berlin:20220627T111500
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032015
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204455Z
+DTSTART;TZID=Europe/Berlin:20220627T113000
+DTEND;TZID=Europe/Berlin:20220627T130000
+SUMMARY:Programmieren 2 (32-74209)
+UID:6914323381188032016
+URL:https://aalen.instructure.com/enroll/7E8G7A
+LOCATION:G1 0.20\, Canvas
+DESCRIPTION:Programmieren 2 (32-74209)\nProf. Dr. Andreas Theissler\nWI S2\nCanvas: https://aalen.instructure.com/enroll/7E8G7A\n
+END:VEVENT
+END:VCALENDAR

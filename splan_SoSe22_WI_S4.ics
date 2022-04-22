@@ -1,0 +1,1630 @@
+BEGIN:VCALENDAR
+PRODID:-//Progotec//StarPlan ics//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+TZURL:http://tzurl.org/zoneinfo/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETFROM:+005328
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:18930401T000000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19160430T230000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19161001T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:CEMT
+DTSTART:19450524T020000
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19450924T030000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19460101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220317T094500
+DTEND;TZID=Europe/Berlin:20220317T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033751
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220317T113000
+DTEND;TZID=Europe/Berlin:20220317T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033752
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220324T094500
+DTEND;TZID=Europe/Berlin:20220324T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033753
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220324T113000
+DTEND;TZID=Europe/Berlin:20220324T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033754
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220331T094500
+DTEND;TZID=Europe/Berlin:20220331T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033755
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220331T113000
+DTEND;TZID=Europe/Berlin:20220331T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033756
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220407T094500
+DTEND;TZID=Europe/Berlin:20220407T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033757
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220407T113000
+DTEND;TZID=Europe/Berlin:20220407T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033758
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220421T094500
+DTEND;TZID=Europe/Berlin:20220421T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033759
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220421T113000
+DTEND;TZID=Europe/Berlin:20220421T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033760
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220428T094500
+DTEND;TZID=Europe/Berlin:20220428T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033761
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220428T113000
+DTEND;TZID=Europe/Berlin:20220428T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033762
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220505T094500
+DTEND;TZID=Europe/Berlin:20220505T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033763
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220505T113000
+DTEND;TZID=Europe/Berlin:20220505T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033764
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220512T094500
+DTEND;TZID=Europe/Berlin:20220512T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033765
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220512T113000
+DTEND;TZID=Europe/Berlin:20220512T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033766
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220519T094500
+DTEND;TZID=Europe/Berlin:20220519T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033767
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220519T113000
+DTEND;TZID=Europe/Berlin:20220519T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033768
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220602T094500
+DTEND;TZID=Europe/Berlin:20220602T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033769
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220602T113000
+DTEND;TZID=Europe/Berlin:20220602T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033770
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220623T094500
+DTEND;TZID=Europe/Berlin:20220623T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033771
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220623T113000
+DTEND;TZID=Europe/Berlin:20220623T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033772
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220630T094500
+DTEND;TZID=Europe/Berlin:20220630T111500
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033773
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220630T113000
+DTEND;TZID=Europe/Berlin:20220630T130000
+SUMMARY:Dig. Wertschöpfungsketten (32-74401)
+UID:6914323381188033774
+URL:https://aalen.instructure.com/enroll/W9TXGY
+LOCATION:Canvas
+DESCRIPTION:Digitale Wertschöpfungsketten (32-74401)\nDaniel Heinz\nWI S4\nCanvas: https://aalen.instructure.com/enroll/W9TXGY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220317T140000
+DTEND;TZID=Europe/Berlin:20220317T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033775
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220317T154500
+DTEND;TZID=Europe/Berlin:20220317T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033776
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220324T140000
+DTEND;TZID=Europe/Berlin:20220324T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033777
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220324T154500
+DTEND;TZID=Europe/Berlin:20220324T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033778
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220331T140000
+DTEND;TZID=Europe/Berlin:20220331T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033779
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220331T154500
+DTEND;TZID=Europe/Berlin:20220331T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033780
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220407T140000
+DTEND;TZID=Europe/Berlin:20220407T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033781
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220407T154500
+DTEND;TZID=Europe/Berlin:20220407T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033782
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220421T140000
+DTEND;TZID=Europe/Berlin:20220421T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033783
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220421T154500
+DTEND;TZID=Europe/Berlin:20220421T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033784
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220428T140000
+DTEND;TZID=Europe/Berlin:20220428T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033785
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220428T154500
+DTEND;TZID=Europe/Berlin:20220428T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033786
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220505T140000
+DTEND;TZID=Europe/Berlin:20220505T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033787
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220505T154500
+DTEND;TZID=Europe/Berlin:20220505T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033788
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220512T140000
+DTEND;TZID=Europe/Berlin:20220512T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033789
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220512T154500
+DTEND;TZID=Europe/Berlin:20220512T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033790
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220519T140000
+DTEND;TZID=Europe/Berlin:20220519T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033791
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220519T154500
+DTEND;TZID=Europe/Berlin:20220519T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033792
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220602T140000
+DTEND;TZID=Europe/Berlin:20220602T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033793
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220602T154500
+DTEND;TZID=Europe/Berlin:20220602T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033794
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220623T140000
+DTEND;TZID=Europe/Berlin:20220623T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033795
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220623T154500
+DTEND;TZID=Europe/Berlin:20220623T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033796
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220630T140000
+DTEND;TZID=Europe/Berlin:20220630T153000
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033797
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:115\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220630T154500
+DTEND;TZID=Europe/Berlin:20220630T171500
+SUMMARY:Marketing u. Marktforsch. (32-74402)
+UID:6914323381188033798
+URL:https://aalen.instructure.com/enroll/GFMTF6
+LOCATION:129\, Canvas
+DESCRIPTION:Marketing und Marktforschung (32-74402)\nProf. Dr. Christina Ocampo\nWI S4\nBAN S4 nur bis 28.04!\nCanvas: https://aalen.instructure.com/enroll/GFMTF6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220314T080000
+DTEND;TZID=Europe/Berlin:20220314T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033799
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220314T094500
+DTEND;TZID=Europe/Berlin:20220314T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033800
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220321T080000
+DTEND;TZID=Europe/Berlin:20220321T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033801
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220321T094500
+DTEND;TZID=Europe/Berlin:20220321T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033802
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220328T080000
+DTEND;TZID=Europe/Berlin:20220328T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033803
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220328T094500
+DTEND;TZID=Europe/Berlin:20220328T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033804
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220404T080000
+DTEND;TZID=Europe/Berlin:20220404T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033805
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220404T094500
+DTEND;TZID=Europe/Berlin:20220404T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033806
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220411T080000
+DTEND;TZID=Europe/Berlin:20220411T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033807
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220411T094500
+DTEND;TZID=Europe/Berlin:20220411T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033808
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220425T080000
+DTEND;TZID=Europe/Berlin:20220425T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033809
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220425T094500
+DTEND;TZID=Europe/Berlin:20220425T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033810
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220502T080000
+DTEND;TZID=Europe/Berlin:20220502T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033811
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220502T094500
+DTEND;TZID=Europe/Berlin:20220502T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033812
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220509T080000
+DTEND;TZID=Europe/Berlin:20220509T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033813
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220509T094500
+DTEND;TZID=Europe/Berlin:20220509T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033814
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220516T080000
+DTEND;TZID=Europe/Berlin:20220516T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033815
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220516T094500
+DTEND;TZID=Europe/Berlin:20220516T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033816
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220523T080000
+DTEND;TZID=Europe/Berlin:20220523T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033817
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220523T094500
+DTEND;TZID=Europe/Berlin:20220523T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033818
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220530T080000
+DTEND;TZID=Europe/Berlin:20220530T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033819
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220530T094500
+DTEND;TZID=Europe/Berlin:20220530T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033820
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220613T080000
+DTEND;TZID=Europe/Berlin:20220613T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033821
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220613T094500
+DTEND;TZID=Europe/Berlin:20220613T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033822
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220620T080000
+DTEND;TZID=Europe/Berlin:20220620T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033823
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220620T094500
+DTEND;TZID=Europe/Berlin:20220620T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033824
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220627T080000
+DTEND;TZID=Europe/Berlin:20220627T093000
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033825
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220627T094500
+DTEND;TZID=Europe/Berlin:20220627T111500
+SUMMARY:IT-Sicherheit (32-74403)
+UID:6914323381188033826
+URL:https://aalen.instructure.com/enroll/3FYJAR
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:IT-Sicherheit (32-74403)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/3FYJAR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220314T173000
+DTEND;TZID=Europe/Berlin:20220314T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033827
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220316T140000
+DTEND;TZID=Europe/Berlin:20220316T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033828
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220321T173000
+DTEND;TZID=Europe/Berlin:20220321T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033829
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220323T140000
+DTEND;TZID=Europe/Berlin:20220323T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033830
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220328T173000
+DTEND;TZID=Europe/Berlin:20220328T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033831
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220330T140000
+DTEND;TZID=Europe/Berlin:20220330T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033832
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220411T173000
+DTEND;TZID=Europe/Berlin:20220411T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033833
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220413T140000
+DTEND;TZID=Europe/Berlin:20220413T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033834
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220420T140000
+DTEND;TZID=Europe/Berlin:20220420T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033835
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220425T173000
+DTEND;TZID=Europe/Berlin:20220425T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033836
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220427T140000
+DTEND;TZID=Europe/Berlin:20220427T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033837
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220509T173000
+DTEND;TZID=Europe/Berlin:20220509T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033838
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220511T140000
+DTEND;TZID=Europe/Berlin:20220511T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033839
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220516T173000
+DTEND;TZID=Europe/Berlin:20220516T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033840
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220518T140000
+DTEND;TZID=Europe/Berlin:20220518T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033841
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220523T173000
+DTEND;TZID=Europe/Berlin:20220523T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033842
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220530T173000
+DTEND;TZID=Europe/Berlin:20220530T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033843
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220601T140000
+DTEND;TZID=Europe/Berlin:20220601T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033844
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220615T140000
+DTEND;TZID=Europe/Berlin:20220615T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033845
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220620T173000
+DTEND;TZID=Europe/Berlin:20220620T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033846
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220622T140000
+DTEND;TZID=Europe/Berlin:20220622T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033847
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220627T173000
+DTEND;TZID=Europe/Berlin:20220627T190000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033848
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220629T140000
+DTEND;TZID=Europe/Berlin:20220629T163000
+SUMMARY:Unternehmensführung (32-74404)
+UID:6914323381188033849
+URL:https://aalen.instructure.com/enroll/JXW4GP
+LOCATION:G2 1.01\, Canvas
+DESCRIPTION:Unternehmensführung (32-74404)\nWolfgang Gunsenheimer\nWI S4\nCanvas: https://aalen.instructure.com/enroll/JXW4GP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220316T094500
+DTEND;TZID=Europe/Berlin:20220316T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033850
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220316T113000
+DTEND;TZID=Europe/Berlin:20220316T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033851
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220323T094500
+DTEND;TZID=Europe/Berlin:20220323T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033852
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220323T113000
+DTEND;TZID=Europe/Berlin:20220323T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033853
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220330T094500
+DTEND;TZID=Europe/Berlin:20220330T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033854
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220330T113000
+DTEND;TZID=Europe/Berlin:20220330T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033855
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220406T094500
+DTEND;TZID=Europe/Berlin:20220406T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033856
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220406T113000
+DTEND;TZID=Europe/Berlin:20220406T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033857
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220413T094500
+DTEND;TZID=Europe/Berlin:20220413T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033858
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220413T113000
+DTEND;TZID=Europe/Berlin:20220413T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033859
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220420T094500
+DTEND;TZID=Europe/Berlin:20220420T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033860
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220420T113000
+DTEND;TZID=Europe/Berlin:20220420T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033861
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220427T094500
+DTEND;TZID=Europe/Berlin:20220427T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033862
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220427T113000
+DTEND;TZID=Europe/Berlin:20220427T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033863
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220504T094500
+DTEND;TZID=Europe/Berlin:20220504T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033864
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220504T113000
+DTEND;TZID=Europe/Berlin:20220504T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033865
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220511T094500
+DTEND;TZID=Europe/Berlin:20220511T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033866
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220511T113000
+DTEND;TZID=Europe/Berlin:20220511T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033867
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220518T094500
+DTEND;TZID=Europe/Berlin:20220518T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033868
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220518T113000
+DTEND;TZID=Europe/Berlin:20220518T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033869
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220525T094500
+DTEND;TZID=Europe/Berlin:20220525T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033870
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220525T113000
+DTEND;TZID=Europe/Berlin:20220525T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033871
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220601T094500
+DTEND;TZID=Europe/Berlin:20220601T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033872
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220601T113000
+DTEND;TZID=Europe/Berlin:20220601T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033873
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220615T094500
+DTEND;TZID=Europe/Berlin:20220615T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033874
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220615T113000
+DTEND;TZID=Europe/Berlin:20220615T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033875
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220622T094500
+DTEND;TZID=Europe/Berlin:20220622T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033876
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220622T113000
+DTEND;TZID=Europe/Berlin:20220622T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033877
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220629T094500
+DTEND;TZID=Europe/Berlin:20220629T111500
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033878
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220629T113000
+DTEND;TZID=Europe/Berlin:20220629T130000
+SUMMARY:Softwareeng. und Tools (32-74405)
+UID:6914323381188033879
+URL:https://aalen.instructure.com/enroll/8HLJR6
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Softwareengineering und Tools (32-74405)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/8HLJR6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220315T113000
+DTEND;TZID=Europe/Berlin:20220315T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033880
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220315T140000
+DTEND;TZID=Europe/Berlin:20220315T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033881
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220322T113000
+DTEND;TZID=Europe/Berlin:20220322T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033882
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220322T140000
+DTEND;TZID=Europe/Berlin:20220322T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033883
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220329T113000
+DTEND;TZID=Europe/Berlin:20220329T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033884
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220329T140000
+DTEND;TZID=Europe/Berlin:20220329T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033885
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220405T113000
+DTEND;TZID=Europe/Berlin:20220405T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033886
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220405T140000
+DTEND;TZID=Europe/Berlin:20220405T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033887
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220412T113000
+DTEND;TZID=Europe/Berlin:20220412T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033888
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220412T140000
+DTEND;TZID=Europe/Berlin:20220412T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033889
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220426T113000
+DTEND;TZID=Europe/Berlin:20220426T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033890
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220426T140000
+DTEND;TZID=Europe/Berlin:20220426T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033891
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220503T113000
+DTEND;TZID=Europe/Berlin:20220503T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033892
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220503T140000
+DTEND;TZID=Europe/Berlin:20220503T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033893
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220510T113000
+DTEND;TZID=Europe/Berlin:20220510T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033894
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220510T140000
+DTEND;TZID=Europe/Berlin:20220510T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033895
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220517T113000
+DTEND;TZID=Europe/Berlin:20220517T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033896
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220517T140000
+DTEND;TZID=Europe/Berlin:20220517T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033897
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220524T113000
+DTEND;TZID=Europe/Berlin:20220524T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033898
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220524T140000
+DTEND;TZID=Europe/Berlin:20220524T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033899
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220531T113000
+DTEND;TZID=Europe/Berlin:20220531T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033900
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220531T140000
+DTEND;TZID=Europe/Berlin:20220531T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033901
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220614T113000
+DTEND;TZID=Europe/Berlin:20220614T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033902
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220614T140000
+DTEND;TZID=Europe/Berlin:20220614T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033903
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220621T113000
+DTEND;TZID=Europe/Berlin:20220621T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033904
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220621T140000
+DTEND;TZID=Europe/Berlin:20220621T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033905
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220628T113000
+DTEND;TZID=Europe/Berlin:20220628T130000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033906
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205047Z
+DTSTART;TZID=Europe/Berlin:20220628T140000
+DTEND;TZID=Europe/Berlin:20220628T153000
+SUMMARY:Entwicklung v. Info-syst. (32-74406)
+UID:6914323381188033907
+URL:https://aalen.instructure.com/enroll/PR6HJ3
+LOCATION:G2 2.01\, Canvas
+DESCRIPTION:Entwicklung von Informationssystemen (32-74406)\nProf. Dr.oec Marc Fernandes\nWI S4\nCanvas: https://aalen.instructure.com/enroll/PR6HJ3\n
+END:VEVENT
+END:VCALENDAR

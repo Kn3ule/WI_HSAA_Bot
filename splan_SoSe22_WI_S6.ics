@@ -1,0 +1,2576 @@
+BEGIN:VCALENDAR
+PRODID:-//Progotec//StarPlan ics//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+TZURL:http://tzurl.org/zoneinfo/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETFROM:+005328
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:18930401T000000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19160430T230000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19161001T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:CEMT
+DTSTART:19450524T020000
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19450924T030000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19460101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220315T073000
+DTEND;TZID=Europe/Berlin:20220315T100000
+SUMMARY:WF: CRM (32-74618)
+UID:6914323381188034217
+URL:https://aalen.instructure.com/enroll/JRYMB3
+LOCATION:Canvas
+DESCRIPTION:Wahlfach CRM (32-74618)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/JRYMB3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220321T140000
+DTEND;TZID=Europe/Berlin:20220321T180000
+SUMMARY:WF: CRM (32-74618)
+UID:6914323381188034218
+URL:https://aalen.instructure.com/enroll/JRYMB3
+LOCATION:Canvas
+DESCRIPTION:Wahlfach CRM (32-74618)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/JRYMB3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220322T073000
+DTEND;TZID=Europe/Berlin:20220322T100000
+SUMMARY:WF: CRM (32-74618)
+UID:6914323381188034219
+URL:https://aalen.instructure.com/enroll/JRYMB3
+LOCATION:Canvas
+DESCRIPTION:Wahlfach CRM (32-74618)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/JRYMB3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220411T140000
+DTEND;TZID=Europe/Berlin:20220411T183000
+SUMMARY:WF: CRM (32-74618)
+UID:6914323381188034220
+URL:https://aalen.instructure.com/enroll/JRYMB3
+LOCATION:Canvas
+DESCRIPTION:Wahlfach CRM (32-74618)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/JRYMB3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220412T073000
+DTEND;TZID=Europe/Berlin:20220412T100000
+SUMMARY:WF: CRM (32-74618)
+UID:6914323381188034221
+URL:https://aalen.instructure.com/enroll/JRYMB3
+LOCATION:Canvas
+DESCRIPTION:Wahlfach CRM (32-74618)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/JRYMB3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220430T090000
+DTEND;TZID=Europe/Berlin:20220430T153000
+SUMMARY:WF: CRM (32-74618)
+UID:6914323381188034222
+URL:https://aalen.instructure.com/enroll/JRYMB3
+LOCATION:Canvas
+DESCRIPTION:Wahlfach CRM (32-74618)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/JRYMB3\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220317T080000
+DTEND;TZID=Europe/Berlin:20220317T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034223
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220317T094500
+DTEND;TZID=Europe/Berlin:20220317T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034224
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220324T080000
+DTEND;TZID=Europe/Berlin:20220324T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034225
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220324T094500
+DTEND;TZID=Europe/Berlin:20220324T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034226
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220331T080000
+DTEND;TZID=Europe/Berlin:20220331T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034227
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220331T094500
+DTEND;TZID=Europe/Berlin:20220331T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034228
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220407T080000
+DTEND;TZID=Europe/Berlin:20220407T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034229
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220407T094500
+DTEND;TZID=Europe/Berlin:20220407T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034230
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220421T080000
+DTEND;TZID=Europe/Berlin:20220421T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034231
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220421T094500
+DTEND;TZID=Europe/Berlin:20220421T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034232
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220428T080000
+DTEND;TZID=Europe/Berlin:20220428T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034233
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220428T094500
+DTEND;TZID=Europe/Berlin:20220428T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034234
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220505T080000
+DTEND;TZID=Europe/Berlin:20220505T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034235
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220505T094500
+DTEND;TZID=Europe/Berlin:20220505T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034236
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220512T080000
+DTEND;TZID=Europe/Berlin:20220512T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034237
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220512T094500
+DTEND;TZID=Europe/Berlin:20220512T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034238
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220519T080000
+DTEND;TZID=Europe/Berlin:20220519T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034239
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220519T094500
+DTEND;TZID=Europe/Berlin:20220519T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034240
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220602T080000
+DTEND;TZID=Europe/Berlin:20220602T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034241
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220602T094500
+DTEND;TZID=Europe/Berlin:20220602T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034242
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220623T080000
+DTEND;TZID=Europe/Berlin:20220623T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034243
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220623T094500
+DTEND;TZID=Europe/Berlin:20220623T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034244
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220630T080000
+DTEND;TZID=Europe/Berlin:20220630T093000
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034245
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220630T094500
+DTEND;TZID=Europe/Berlin:20220630T111500
+SUMMARY:WF: Datenschutz n. DSGVO (32-74614)
+UID:6914323381188034246
+URL:https://aalen.instructure.com/enroll/K7G9HR
+LOCATION:G2 0.21\, Canvas
+DESCRIPTION:Wahlfach Datenschutz nach DSGVO (32-74614)\nProf. Dr. Manfred Rössle\nWI S6\nCanvas: https://aalen.instructure.com/enroll/K7G9HR\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220318T094500
+DTEND;TZID=Europe/Berlin:20220318T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034247
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220318T113000
+DTEND;TZID=Europe/Berlin:20220318T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034248
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220325T094500
+DTEND;TZID=Europe/Berlin:20220325T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034249
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220325T113000
+DTEND;TZID=Europe/Berlin:20220325T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034250
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220401T094500
+DTEND;TZID=Europe/Berlin:20220401T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034251
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220401T113000
+DTEND;TZID=Europe/Berlin:20220401T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034252
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220408T094500
+DTEND;TZID=Europe/Berlin:20220408T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034253
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220408T113000
+DTEND;TZID=Europe/Berlin:20220408T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034254
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220422T094500
+DTEND;TZID=Europe/Berlin:20220422T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034255
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220422T113000
+DTEND;TZID=Europe/Berlin:20220422T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034256
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220429T094500
+DTEND;TZID=Europe/Berlin:20220429T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034257
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220429T113000
+DTEND;TZID=Europe/Berlin:20220429T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034258
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220506T094500
+DTEND;TZID=Europe/Berlin:20220506T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034259
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220506T113000
+DTEND;TZID=Europe/Berlin:20220506T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034260
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220513T094500
+DTEND;TZID=Europe/Berlin:20220513T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034261
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220513T113000
+DTEND;TZID=Europe/Berlin:20220513T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034262
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220520T094500
+DTEND;TZID=Europe/Berlin:20220520T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034263
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220520T113000
+DTEND;TZID=Europe/Berlin:20220520T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034264
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220527T094500
+DTEND;TZID=Europe/Berlin:20220527T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034265
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220527T113000
+DTEND;TZID=Europe/Berlin:20220527T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034266
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220603T094500
+DTEND;TZID=Europe/Berlin:20220603T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034267
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220603T113000
+DTEND;TZID=Europe/Berlin:20220603T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034268
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220617T094500
+DTEND;TZID=Europe/Berlin:20220617T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034269
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220617T113000
+DTEND;TZID=Europe/Berlin:20220617T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034270
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220624T094500
+DTEND;TZID=Europe/Berlin:20220624T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034271
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220624T113000
+DTEND;TZID=Europe/Berlin:20220624T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034272
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220701T094500
+DTEND;TZID=Europe/Berlin:20220701T111500
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034273
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220701T113000
+DTEND;TZID=Europe/Berlin:20220701T130000
+SUMMARY:Wahlfach Data-M.&Mach.-L. (32-74612)
+UID:6914323381188034274
+URL:https://aalen.instructure.com/enroll/LWGMEK
+LOCATION:213\, Canvas
+DESCRIPTION:Wahlfach Data Mining & Machine Learning (32-74612)\nProf. Dr. Andreas Theissler\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LWGMEK\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220323T140000
+DTEND;TZID=Europe/Berlin:20220323T153000
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034275
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220323T154500
+DTEND;TZID=Europe/Berlin:20220323T171500
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034276
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220406T140000
+DTEND;TZID=Europe/Berlin:20220406T153000
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034277
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220406T154500
+DTEND;TZID=Europe/Berlin:20220406T171500
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034278
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220420T140000
+DTEND;TZID=Europe/Berlin:20220420T153000
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034279
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220420T154500
+DTEND;TZID=Europe/Berlin:20220420T171500
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034280
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220504T140000
+DTEND;TZID=Europe/Berlin:20220504T153000
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034281
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220504T154500
+DTEND;TZID=Europe/Berlin:20220504T171500
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034282
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220518T140000
+DTEND;TZID=Europe/Berlin:20220518T153000
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034283
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220518T154500
+DTEND;TZID=Europe/Berlin:20220518T171500
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034284
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220601T140000
+DTEND;TZID=Europe/Berlin:20220601T153000
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034285
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220601T154500
+DTEND;TZID=Europe/Berlin:20220601T171500
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034286
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220615T140000
+DTEND;TZID=Europe/Berlin:20220615T153000
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034287
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220615T154500
+DTEND;TZID=Europe/Berlin:20220615T171500
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034288
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220629T140000
+DTEND;TZID=Europe/Berlin:20220629T153000
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034289
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220629T154500
+DTEND;TZID=Europe/Berlin:20220629T171500
+SUMMARY:WF: Softskills (32-74613)
+UID:6914323381188034290
+URL:https://aalen.instructure.com/enroll/EXEX7C
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Wahlfach Softskills (32-74613)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/EXEX7C\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220425T090000
+DTEND;TZID=Europe/Berlin:20220425T163000
+SUMMARY:WF: Visual Thinking (32-74620)
+UID:6914323381188034291
+URL:https://aalen.instructure.com/enroll/LAMLN7
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Visual Thinking (32-74620)\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LAMLN7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220426T090000
+DTEND;TZID=Europe/Berlin:20220426T153000
+SUMMARY:WF: Visual Thinking (32-74620)
+UID:6914323381188034292
+URL:https://aalen.instructure.com/enroll/LAMLN7
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Visual Thinking (32-74620)\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LAMLN7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220502T090000
+DTEND;TZID=Europe/Berlin:20220502T163000
+SUMMARY:WF: Visual Thinking (32-74620)
+UID:6914323381188034293
+URL:https://aalen.instructure.com/enroll/LAMLN7
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Visual Thinking (32-74620)\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LAMLN7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220503T090000
+DTEND;TZID=Europe/Berlin:20220503T153000
+SUMMARY:WF: Visual Thinking (32-74620)
+UID:6914323381188034294
+URL:https://aalen.instructure.com/enroll/LAMLN7
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Visual Thinking (32-74620)\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LAMLN7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220509T090000
+DTEND;TZID=Europe/Berlin:20220509T163000
+SUMMARY:WF: Visual Thinking (32-74620)
+UID:6914323381188034295
+URL:https://aalen.instructure.com/enroll/LAMLN7
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Visual Thinking (32-74620)\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LAMLN7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220510T090000
+DTEND;TZID=Europe/Berlin:20220510T153000
+SUMMARY:WF: Visual Thinking (32-74620)
+UID:6914323381188034296
+URL:https://aalen.instructure.com/enroll/LAMLN7
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Visual Thinking (32-74620)\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LAMLN7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220516T090000
+DTEND;TZID=Europe/Berlin:20220516T163000
+SUMMARY:WF: Visual Thinking (32-74620)
+UID:6914323381188034297
+URL:https://aalen.instructure.com/enroll/LAMLN7
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Visual Thinking (32-74620)\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LAMLN7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220517T090000
+DTEND;TZID=Europe/Berlin:20220517T153000
+SUMMARY:WF: Visual Thinking (32-74620)
+UID:6914323381188034298
+URL:https://aalen.instructure.com/enroll/LAMLN7
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Visual Thinking (32-74620)\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LAMLN7\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220317T140000
+DTEND;TZID=Europe/Berlin:20220317T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034299
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220317T154500
+DTEND;TZID=Europe/Berlin:20220317T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034300
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220324T140000
+DTEND;TZID=Europe/Berlin:20220324T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034301
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220324T154500
+DTEND;TZID=Europe/Berlin:20220324T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034302
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220331T140000
+DTEND;TZID=Europe/Berlin:20220331T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034303
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220331T154500
+DTEND;TZID=Europe/Berlin:20220331T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034304
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220407T140000
+DTEND;TZID=Europe/Berlin:20220407T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034305
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220407T154500
+DTEND;TZID=Europe/Berlin:20220407T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034306
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220421T140000
+DTEND;TZID=Europe/Berlin:20220421T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034307
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220421T154500
+DTEND;TZID=Europe/Berlin:20220421T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034308
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220428T140000
+DTEND;TZID=Europe/Berlin:20220428T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034309
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220428T154500
+DTEND;TZID=Europe/Berlin:20220428T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034310
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220505T140000
+DTEND;TZID=Europe/Berlin:20220505T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034311
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220505T154500
+DTEND;TZID=Europe/Berlin:20220505T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034312
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220512T140000
+DTEND;TZID=Europe/Berlin:20220512T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034313
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220512T154500
+DTEND;TZID=Europe/Berlin:20220512T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034314
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220519T140000
+DTEND;TZID=Europe/Berlin:20220519T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034315
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220519T154500
+DTEND;TZID=Europe/Berlin:20220519T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034316
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220602T140000
+DTEND;TZID=Europe/Berlin:20220602T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034317
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220602T154500
+DTEND;TZID=Europe/Berlin:20220602T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034318
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220623T140000
+DTEND;TZID=Europe/Berlin:20220623T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034319
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220623T154500
+DTEND;TZID=Europe/Berlin:20220623T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034320
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220630T140000
+DTEND;TZID=Europe/Berlin:20220630T153000
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034321
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220630T154500
+DTEND;TZID=Europe/Berlin:20220630T171500
+SUMMARY:WF: Sim.Gamepl.:myStartup (32-74621)
+UID:6914323381188034322
+LOCATION:--
+DESCRIPTION:Wahlfach Simulation Gameplay: myStartup (32-74621)\nAndreas Niese\nWI S6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220315T094500
+DTEND;TZID=Europe/Berlin:20220315T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034323
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220315T113000
+DTEND;TZID=Europe/Berlin:20220315T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034324
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220322T094500
+DTEND;TZID=Europe/Berlin:20220322T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034325
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220322T113000
+DTEND;TZID=Europe/Berlin:20220322T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034326
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220329T094500
+DTEND;TZID=Europe/Berlin:20220329T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034327
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220329T113000
+DTEND;TZID=Europe/Berlin:20220329T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034328
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220405T094500
+DTEND;TZID=Europe/Berlin:20220405T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034329
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220405T113000
+DTEND;TZID=Europe/Berlin:20220405T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034330
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220412T094500
+DTEND;TZID=Europe/Berlin:20220412T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034331
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220412T113000
+DTEND;TZID=Europe/Berlin:20220412T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034332
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220426T094500
+DTEND;TZID=Europe/Berlin:20220426T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034333
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220426T113000
+DTEND;TZID=Europe/Berlin:20220426T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034334
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220503T094500
+DTEND;TZID=Europe/Berlin:20220503T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034335
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220503T113000
+DTEND;TZID=Europe/Berlin:20220503T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034336
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220510T094500
+DTEND;TZID=Europe/Berlin:20220510T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034337
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220510T113000
+DTEND;TZID=Europe/Berlin:20220510T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034338
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220517T094500
+DTEND;TZID=Europe/Berlin:20220517T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034339
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220517T113000
+DTEND;TZID=Europe/Berlin:20220517T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034340
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220524T094500
+DTEND;TZID=Europe/Berlin:20220524T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034341
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220524T113000
+DTEND;TZID=Europe/Berlin:20220524T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034342
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220531T094500
+DTEND;TZID=Europe/Berlin:20220531T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034343
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220531T113000
+DTEND;TZID=Europe/Berlin:20220531T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034344
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220614T094500
+DTEND;TZID=Europe/Berlin:20220614T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034345
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220614T113000
+DTEND;TZID=Europe/Berlin:20220614T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034346
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220621T094500
+DTEND;TZID=Europe/Berlin:20220621T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034347
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220621T113000
+DTEND;TZID=Europe/Berlin:20220621T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034348
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220628T094500
+DTEND;TZID=Europe/Berlin:20220628T111500
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034349
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220628T113000
+DTEND;TZID=Europe/Berlin:20220628T130000
+SUMMARY:Wahlfach Python-Prog. (33-74623)
+UID:6914323381188034350
+URL:https://aalen.instructure.com/enroll/M4H9EW
+LOCATION:G2 1.44\, Canvas
+DESCRIPTION:Wahlfach Python-Programmierung (33-74623)\nProf. Dr. Christian Koot\nWI S6\nCanvas: https://aalen.instructure.com/enroll/M4H9EW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220326T090000
+DTEND;TZID=Europe/Berlin:20220326T140000
+SUMMARY:WF: Business Intelligence (32-74619)
+UID:6914323381188034351
+URL:https://aalen.instructure.com/enroll/RPJWMN
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Business Intelligence (32-74619)\nTobias Gold\nWI S6\nCanvas: https://aalen.instructure.com/enroll/RPJWMN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220423T090000
+DTEND;TZID=Europe/Berlin:20220423T140000
+SUMMARY:WF: Business Intelligence (32-74619)
+UID:6914323381188034352
+URL:https://aalen.instructure.com/enroll/RPJWMN
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Business Intelligence (32-74619)\nTobias Gold\nWI S6\nCanvas: https://aalen.instructure.com/enroll/RPJWMN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220514T090000
+DTEND;TZID=Europe/Berlin:20220514T140000
+SUMMARY:WF: Business Intelligence (32-74619)
+UID:6914323381188034353
+URL:https://aalen.instructure.com/enroll/RPJWMN
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Business Intelligence (32-74619)\nTobias Gold\nWI S6\nCanvas: https://aalen.instructure.com/enroll/RPJWMN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220604T090000
+DTEND;TZID=Europe/Berlin:20220604T140000
+SUMMARY:WF: Business Intelligence (32-74619)
+UID:6914323381188034354
+URL:https://aalen.instructure.com/enroll/RPJWMN
+LOCATION:Canvas
+DESCRIPTION:Wahlfach Business Intelligence (32-74619)\nTobias Gold\nWI S6\nCanvas: https://aalen.instructure.com/enroll/RPJWMN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220315T161500
+DTEND;TZID=Europe/Berlin:20220315T184500
+SUMMARY:Unternehmensführung 2 (33-74624)
+UID:6914323381188034355
+URL:https://aalen.instructure.com/enroll/7LTJEY
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Unternehmensführung 2 (33-74624)\nWolfgang Gunsenheimer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/7LTJEY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220426T161500
+DTEND;TZID=Europe/Berlin:20220426T184500
+SUMMARY:Unternehmensführung 2 (33-74624)
+UID:6914323381188034356
+URL:https://aalen.instructure.com/enroll/7LTJEY
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Unternehmensführung 2 (33-74624)\nWolfgang Gunsenheimer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/7LTJEY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220510T161500
+DTEND;TZID=Europe/Berlin:20220510T184500
+SUMMARY:Unternehmensführung 2 (33-74624)
+UID:6914323381188034357
+URL:https://aalen.instructure.com/enroll/7LTJEY
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Unternehmensführung 2 (33-74624)\nWolfgang Gunsenheimer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/7LTJEY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220517T161500
+DTEND;TZID=Europe/Berlin:20220517T184500
+SUMMARY:Unternehmensführung 2 (33-74624)
+UID:6914323381188034358
+URL:https://aalen.instructure.com/enroll/7LTJEY
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Unternehmensführung 2 (33-74624)\nWolfgang Gunsenheimer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/7LTJEY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220524T161500
+DTEND;TZID=Europe/Berlin:20220524T184500
+SUMMARY:Unternehmensführung 2 (33-74624)
+UID:6914323381188034359
+URL:https://aalen.instructure.com/enroll/7LTJEY
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Unternehmensführung 2 (33-74624)\nWolfgang Gunsenheimer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/7LTJEY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220531T161500
+DTEND;TZID=Europe/Berlin:20220531T184500
+SUMMARY:Unternehmensführung 2 (33-74624)
+UID:6914323381188034360
+URL:https://aalen.instructure.com/enroll/7LTJEY
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Unternehmensführung 2 (33-74624)\nWolfgang Gunsenheimer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/7LTJEY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220621T161500
+DTEND;TZID=Europe/Berlin:20220621T184500
+SUMMARY:Unternehmensführung 2 (33-74624)
+UID:6914323381188034361
+URL:https://aalen.instructure.com/enroll/7LTJEY
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Unternehmensführung 2 (33-74624)\nWolfgang Gunsenheimer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/7LTJEY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220628T161500
+DTEND;TZID=Europe/Berlin:20220628T184500
+SUMMARY:Unternehmensführung 2 (33-74624)
+UID:6914323381188034362
+URL:https://aalen.instructure.com/enroll/7LTJEY
+LOCATION:G2 0.37\, Canvas
+DESCRIPTION:Unternehmensführung 2 (33-74624)\nWolfgang Gunsenheimer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/7LTJEY\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220317T094500
+DTEND;TZID=Europe/Berlin:20220317T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034363
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220317T113000
+DTEND;TZID=Europe/Berlin:20220317T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034364
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220324T094500
+DTEND;TZID=Europe/Berlin:20220324T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034365
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220324T113000
+DTEND;TZID=Europe/Berlin:20220324T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034366
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220331T094500
+DTEND;TZID=Europe/Berlin:20220331T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034367
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220331T113000
+DTEND;TZID=Europe/Berlin:20220331T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034368
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220407T094500
+DTEND;TZID=Europe/Berlin:20220407T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034369
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220407T113000
+DTEND;TZID=Europe/Berlin:20220407T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034370
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220421T094500
+DTEND;TZID=Europe/Berlin:20220421T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034371
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220421T113000
+DTEND;TZID=Europe/Berlin:20220421T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034372
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220428T094500
+DTEND;TZID=Europe/Berlin:20220428T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034373
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220428T113000
+DTEND;TZID=Europe/Berlin:20220428T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034374
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220505T094500
+DTEND;TZID=Europe/Berlin:20220505T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034375
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220505T113000
+DTEND;TZID=Europe/Berlin:20220505T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034376
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220512T094500
+DTEND;TZID=Europe/Berlin:20220512T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034377
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220512T113000
+DTEND;TZID=Europe/Berlin:20220512T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034378
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220519T094500
+DTEND;TZID=Europe/Berlin:20220519T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034379
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220519T113000
+DTEND;TZID=Europe/Berlin:20220519T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034380
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220602T094500
+DTEND;TZID=Europe/Berlin:20220602T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034381
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220602T113000
+DTEND;TZID=Europe/Berlin:20220602T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034382
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220623T094500
+DTEND;TZID=Europe/Berlin:20220623T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034383
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220623T113000
+DTEND;TZID=Europe/Berlin:20220623T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034384
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220630T094500
+DTEND;TZID=Europe/Berlin:20220630T111500
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034385
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220630T113000
+DTEND;TZID=Europe/Berlin:20220630T130000
+SUMMARY:WF: Intern. Marketing (33-74625)
+UID:6914323381188034386
+URL:https://aalen.instructure.com/enroll/L7X9L6
+LOCATION:133\, Canvas
+DESCRIPTION:Wahlfach: International Marketing (33-74625)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/L7X9L6\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220318T140000
+DTEND;TZID=Europe/Berlin:20220318T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034387
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220318T154500
+DTEND;TZID=Europe/Berlin:20220318T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034388
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220325T140000
+DTEND;TZID=Europe/Berlin:20220325T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034389
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220325T154500
+DTEND;TZID=Europe/Berlin:20220325T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034390
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220401T140000
+DTEND;TZID=Europe/Berlin:20220401T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034391
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220401T154500
+DTEND;TZID=Europe/Berlin:20220401T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034392
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220408T140000
+DTEND;TZID=Europe/Berlin:20220408T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034393
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220408T154500
+DTEND;TZID=Europe/Berlin:20220408T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034394
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220422T140000
+DTEND;TZID=Europe/Berlin:20220422T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034395
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220422T154500
+DTEND;TZID=Europe/Berlin:20220422T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034396
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220429T140000
+DTEND;TZID=Europe/Berlin:20220429T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034397
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220429T154500
+DTEND;TZID=Europe/Berlin:20220429T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034398
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220506T140000
+DTEND;TZID=Europe/Berlin:20220506T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034399
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220506T154500
+DTEND;TZID=Europe/Berlin:20220506T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034400
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220513T140000
+DTEND;TZID=Europe/Berlin:20220513T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034401
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220513T154500
+DTEND;TZID=Europe/Berlin:20220513T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034402
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220520T140000
+DTEND;TZID=Europe/Berlin:20220520T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034403
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220520T154500
+DTEND;TZID=Europe/Berlin:20220520T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034404
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220527T140000
+DTEND;TZID=Europe/Berlin:20220527T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034405
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220527T154500
+DTEND;TZID=Europe/Berlin:20220527T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034406
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220603T140000
+DTEND;TZID=Europe/Berlin:20220603T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034407
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220603T154500
+DTEND;TZID=Europe/Berlin:20220603T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034408
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220617T140000
+DTEND;TZID=Europe/Berlin:20220617T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034409
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220617T154500
+DTEND;TZID=Europe/Berlin:20220617T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034410
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220624T140000
+DTEND;TZID=Europe/Berlin:20220624T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034411
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220624T154500
+DTEND;TZID=Europe/Berlin:20220624T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034412
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220701T140000
+DTEND;TZID=Europe/Berlin:20220701T153000
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034413
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220701T154500
+DTEND;TZID=Europe/Berlin:20220701T171500
+SUMMARY:Marketing Mix (32-93704)
+UID:6914323381188034414
+URL:https://aalen.instructure.com/enroll/E9J8KN
+LOCATION:103\, Canvas
+DESCRIPTION:Marketing Mix (32-93704)\nProf. Dr. Christina Ocampo\nWI S6\nCanvas: https://aalen.instructure.com/enroll/E9J8KN\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220316T080000
+DTEND;TZID=Europe/Berlin:20220316T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034415
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220316T094500
+DTEND;TZID=Europe/Berlin:20220316T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034416
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220323T080000
+DTEND;TZID=Europe/Berlin:20220323T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034417
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220323T094500
+DTEND;TZID=Europe/Berlin:20220323T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034418
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220330T080000
+DTEND;TZID=Europe/Berlin:20220330T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034419
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220330T094500
+DTEND;TZID=Europe/Berlin:20220330T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034420
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220406T080000
+DTEND;TZID=Europe/Berlin:20220406T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034421
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220406T094500
+DTEND;TZID=Europe/Berlin:20220406T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034422
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220413T080000
+DTEND;TZID=Europe/Berlin:20220413T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034423
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220413T094500
+DTEND;TZID=Europe/Berlin:20220413T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034424
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220420T080000
+DTEND;TZID=Europe/Berlin:20220420T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034425
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220420T094500
+DTEND;TZID=Europe/Berlin:20220420T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034426
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220427T080000
+DTEND;TZID=Europe/Berlin:20220427T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034427
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220427T094500
+DTEND;TZID=Europe/Berlin:20220427T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034428
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220504T080000
+DTEND;TZID=Europe/Berlin:20220504T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034429
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220504T094500
+DTEND;TZID=Europe/Berlin:20220504T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034430
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220511T080000
+DTEND;TZID=Europe/Berlin:20220511T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034431
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220511T094500
+DTEND;TZID=Europe/Berlin:20220511T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034432
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220518T080000
+DTEND;TZID=Europe/Berlin:20220518T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034433
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220518T094500
+DTEND;TZID=Europe/Berlin:20220518T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034434
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220525T080000
+DTEND;TZID=Europe/Berlin:20220525T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034435
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220525T094500
+DTEND;TZID=Europe/Berlin:20220525T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034436
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220601T080000
+DTEND;TZID=Europe/Berlin:20220601T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034437
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220601T094500
+DTEND;TZID=Europe/Berlin:20220601T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034438
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220615T080000
+DTEND;TZID=Europe/Berlin:20220615T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034439
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220615T094500
+DTEND;TZID=Europe/Berlin:20220615T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034440
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220622T080000
+DTEND;TZID=Europe/Berlin:20220622T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034441
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220622T094500
+DTEND;TZID=Europe/Berlin:20220622T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034442
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220629T080000
+DTEND;TZID=Europe/Berlin:20220629T093000
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034443
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G2 0.23\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220629T094500
+DTEND;TZID=Europe/Berlin:20220629T111500
+SUMMARY:WF: IT-Management (32-74616)
+UID:6914323381188034444
+URL:https://aalen.instructure.com/enroll/PCX9WD
+LOCATION:G1 0.22\, Canvas
+DESCRIPTION:Wahlfach IT-Management (32-74616)\nHeiko Rössel\nWI S6\nCanvas: https://aalen.instructure.com/enroll/PCX9WD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220321T090000
+DTEND;TZID=Europe/Berlin:20220321T180000
+SUMMARY:Design Management
+UID:6914323381188034445
+URL:https://aalen.instructure.com/enroll/4FNLXD
+LOCATION:Canvas
+DESCRIPTION:Design Management\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/4FNLXD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220322T090000
+DTEND;TZID=Europe/Berlin:20220322T180000
+SUMMARY:Design Management
+UID:6914323381188034446
+URL:https://aalen.instructure.com/enroll/4FNLXD
+LOCATION:Canvas
+DESCRIPTION:Design Management\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/4FNLXD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220328T090000
+DTEND;TZID=Europe/Berlin:20220328T180000
+SUMMARY:Design Management
+UID:6914323381188034447
+URL:https://aalen.instructure.com/enroll/4FNLXD
+LOCATION:Canvas
+DESCRIPTION:Design Management\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/4FNLXD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220329T090000
+DTEND;TZID=Europe/Berlin:20220329T180000
+SUMMARY:Design Management
+UID:6914323381188034448
+URL:https://aalen.instructure.com/enroll/4FNLXD
+LOCATION:Canvas
+DESCRIPTION:Design Management\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/4FNLXD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220404T090000
+DTEND;TZID=Europe/Berlin:20220404T180000
+SUMMARY:Design Management
+UID:6914323381188034449
+URL:https://aalen.instructure.com/enroll/4FNLXD
+LOCATION:Canvas
+DESCRIPTION:Design Management\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/4FNLXD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220405T090000
+DTEND;TZID=Europe/Berlin:20220405T180000
+SUMMARY:Design Management
+UID:6914323381188034450
+URL:https://aalen.instructure.com/enroll/4FNLXD
+LOCATION:Canvas
+DESCRIPTION:Design Management\nPhilip McClenaghen\nWI S6\nCanvas: https://aalen.instructure.com/enroll/4FNLXD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220427T140000
+DTEND;TZID=Europe/Berlin:20220427T183000
+SUMMARY:Communic. & Conflictm. (32-)
+UID:6914323381188034451
+URL:https://aalen.instructure.com/enroll/RLCMPW
+LOCATION:Canvas
+DESCRIPTION:Communication- u. Contflictmanagement (32-)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/RLCMPW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220429T073000
+DTEND;TZID=Europe/Berlin:20220429T103000
+SUMMARY:Communic. & Conflictm. (32-)
+UID:6914323381188034452
+URL:https://aalen.instructure.com/enroll/RLCMPW
+LOCATION:Canvas
+DESCRIPTION:Communication- u. Contflictmanagement (32-)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/RLCMPW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220507T090000
+DTEND;TZID=Europe/Berlin:20220507T160000
+SUMMARY:Communic. & Conflictm. (32-)
+UID:6914323381188034453
+URL:https://aalen.instructure.com/enroll/RLCMPW
+LOCATION:Canvas
+DESCRIPTION:Communication- u. Contflictmanagement (32-)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/RLCMPW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220511T130000
+DTEND;TZID=Europe/Berlin:20220511T170000
+SUMMARY:Communic. & Conflictm. (32-)
+UID:6914323381188034454
+URL:https://aalen.instructure.com/enroll/RLCMPW
+LOCATION:Canvas
+DESCRIPTION:Communication- u. Contflictmanagement (32-)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/RLCMPW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220525T140000
+DTEND;TZID=Europe/Berlin:20220525T183000
+SUMMARY:Communic. & Conflictm. (32-)
+UID:6914323381188034455
+URL:https://aalen.instructure.com/enroll/RLCMPW
+LOCATION:Canvas
+DESCRIPTION:Communication- u. Contflictmanagement (32-)\nPhilipp Wucherer\nWI S6\nCanvas: https://aalen.instructure.com/enroll/RLCMPW\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220316T113000
+DTEND;TZID=Europe/Berlin:20220316T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034456
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220323T113000
+DTEND;TZID=Europe/Berlin:20220323T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034457
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220330T113000
+DTEND;TZID=Europe/Berlin:20220330T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034458
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220406T113000
+DTEND;TZID=Europe/Berlin:20220406T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034459
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220413T113000
+DTEND;TZID=Europe/Berlin:20220413T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034460
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220420T113000
+DTEND;TZID=Europe/Berlin:20220420T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034461
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220427T113000
+DTEND;TZID=Europe/Berlin:20220427T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034462
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220504T113000
+DTEND;TZID=Europe/Berlin:20220504T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034463
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220511T113000
+DTEND;TZID=Europe/Berlin:20220511T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034464
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220518T113000
+DTEND;TZID=Europe/Berlin:20220518T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034465
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220525T113000
+DTEND;TZID=Europe/Berlin:20220525T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034466
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220601T113000
+DTEND;TZID=Europe/Berlin:20220601T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034467
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220615T113000
+DTEND;TZID=Europe/Berlin:20220615T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034468
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220622T113000
+DTEND;TZID=Europe/Berlin:20220622T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034469
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T205119Z
+DTSTART;TZID=Europe/Berlin:20220629T113000
+DTEND;TZID=Europe/Berlin:20220629T130000
+SUMMARY:Cyber-Secruity (32-)
+UID:6914323381188034470
+URL:https://aalen.instructure.com/enroll/LY6TJ9
+LOCATION:G2 2.41\, Canvas
+DESCRIPTION:Cyber-Secruity (32-)\nAlexander Forssman\nWI S6\nCanvas: https://aalen.instructure.com/enroll/LY6TJ9\n
+END:VEVENT
+END:VCALENDAR
