@@ -18,7 +18,7 @@ enrolement_table = Table('enrolements', base.metadata,
     Column('students_id', ForeignKey('students.telegram_id'), primary_key=True)
 )
 
-
+#class to store Students in DB
 class Student(base):
     __tablename__='students'
 
@@ -36,6 +36,8 @@ class Student(base):
         self.first_name = first_name
         self.last_name = last_name
 
+
+#class to store Modules and information in DB
 class Module(base):
     __tablename__ = 'modules'
 
@@ -58,19 +60,20 @@ class Module(base):
         self.semester = semester
         self.canvas = canvas
 
+#class to store the dates for the lectures
 class Lecture_infos(base):
     __tablename__ = 'lecture_infos'
 
     id = Column(Integer, primary_key=True, autoincrement=True)
-    modul_id = Column(Integer, ForeignKey('modules.id'))
-    datetime = Column(DateTime)
+    module_id = Column(Integer, ForeignKey('modules.id'))
+    start_dt = Column(DateTime)
+    end_dt = Column(DateTime)
     room = Column(String)
 
-    def __init__(self, id, modul_id, day, time, room):
-        self.id = id
-        self.modul_id = modul_id
-        self.day = day
-        self.time = time
+    def __init__(self, module_id, start_dt, end_dt, room):
+        self.module_id = module_id
+        self.start_dt = start_dt
+        self.end_dt = end_dt
         self.room = room
 
 
