@@ -29,6 +29,7 @@ def start(update: Update, context: CallbackContext):
         my_session.commit()
     except Exception as err:
         logger.error(err)
+        my_session.rollback()
     greeting = (
         f'Hallo {update.message.from_user.first_name} {update.message.from_user.last_name}!\n'
         f'Ich bin der Informationsbot des Studiengangs Wirtschaftsinformatik der Hochschule Aalen\n'
