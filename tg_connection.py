@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 import os
 import logging
 from info import *
+from svm import svm
 
 from postgres import my_session, Student, Module, Lecture_infos, enrolement_table
 
@@ -38,6 +39,9 @@ def start(update: Update, context: CallbackContext):
     )
     context.bot.send_message(chat_id=update.effective_chat.id, text=greeting)
 
+
+
+
 #Methode um Modulübersicht anzeigen zu lassen
 def modules(update: Update, context: CallbackContext):
     #Alle verfügbaren Module werden ausgelesen und in einen String gepackt
@@ -69,6 +73,9 @@ def modules(update: Update, context: CallbackContext):
 
     context.bot.send_message(chat_id=update.effective_chat.id, text=return_string, parse_mode = 'HTML')
 
+
+
+
 #Methode um Module mit Studenten zu verknüpfen(Many-to-Many)
 def add_module(update: Update, context: CallbackContext):
     student = my_session.query(Student).filter(Student.telegram_id == update.message.from_user.id).first()
@@ -89,6 +96,8 @@ def add_module(update: Update, context: CallbackContext):
     except:
         context.bot.send_message(chat_id=update.effective_chat.id, text= "Modul nicht verfügbar. Bitte überprüfe deine Eingabe!", parse_mode = 'HTML')
 
+
+
 def delete_module(update: Update, context: CallbackContext):
     student = my_session.query(Student).filter(Student.telegram_id == update.message.from_user.id).first()
     module = my_session.query(Module).filter(Module.id == update.message.text.split(' ')[1]).first()
@@ -103,25 +112,29 @@ def delete_module(update: Update, context: CallbackContext):
 
 
 def echo(update: Update, context: CallbackContext):
-    if update.message.text == "aktuelles":
-        output = get_news()
-    else:
-        output = get_downloads(update.message.text)
-    print(context._user_id_and_data)
+    #give user message to svm and get the decision
+    tag = svm(update.message.text)
+
+    output = get_output(tag, update.message.text, update.message.from_user.id)
+
     #context.bot.send_message(chat_id=update.effective_chat.id, text=update.message.text)
     context.bot.send_message(chat_id=update.effective_chat.id, text=output, parse_mode='HTML')
 
 
 def main():
 
-    #create an Updater Object
+    #create an Updater Object and a dispatcher
     updater = Updater(token=token, use_context=True)
     dispatcher = updater.dispatcher
+
+    #create Command and MessageHandler
     start_handler = CommandHandler('start', start)
     modules_handler = CommandHandler('modules', modules)
     addmodule_handler = CommandHandler('add', add_module)
     deletemodules_handler = CommandHandler('delete', delete_module)
     echo_handler = MessageHandler(Filters.text & (~Filters.command), echo)
+    
+    #add handler to dispatcher
     dispatcher.add_handler(start_handler)
     dispatcher.add_handler(echo_handler)
     dispatcher.add_handler(modules_handler)
