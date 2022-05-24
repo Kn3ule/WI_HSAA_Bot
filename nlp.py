@@ -11,6 +11,6 @@ def preprocess(sentence):
     lemma_tokens = []
     for token in doc:
         if token.is_stop == False and token.is_punct == False:
-            lemma_tokens.append(token.lemma_.lower())
-    
+            lemma_tokens.append(token.lemma_)
+    #am besten keine Kleinschreibung
     return ' '.join(lemma_tokens)

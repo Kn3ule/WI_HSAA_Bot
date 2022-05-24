@@ -14,13 +14,17 @@ INFORMATIONEN_STUDIUM;Wie kann ich mich mit dem VPN der Hochschule verbinden?
 BEURLAUBUNG;Wie kann ich mich Beurlauben lassen?
 BEURLAUBUNG;Gibt es ein Formular zum Antrag auf Beurlaubung?
 BEURLAUBUNG;Gibt es ein Formular zum Antrag auf ein Urlaubssemester?
+BEURLAUBUNG;Wo finde ich den Antrag auf Beurlaubung?
 LEISTUNGSANNERKENNUNG;Wie kann ich mir Leistungen anerkennen lassen?
 LEISTUNGSANNERKENNUNG;Kann ich mir Leistungen anerkennen lassen?
 LEISTUNGSANNERKENNUNG;Wie kann ich mir Prüfungen anerkennen lassen?
 LEISTUNGSANNERKENNUNG;Wie kann ich mir Prüfungen anrechnen lassen?
 LEISTUNGSANNERKENNUNG;Kann ich mir bereits erbrachte Prüfungen anrechnen lassen?
 LEISTUNGSANNERKENNUNG;Wie kann ich mir bereits erbrachte Leistungen anrechnen lassen?
+LEISTUNGSANNERKENNUNG;Welche Leistungen aus meinem vorherigen Studium kann ich anerkennen lassen?
+LEISTUNGSANNERKENNUNG;Wie kann ich Leistungen aus meinem vorherigen Studium anerkennen lassen?
 MODULBESCHREIBUNGEN;Wo kann ich die Modulbeschreibungen finden?
+MODULBESCHREIBUNGEN;Wo finde ich die Modulbeschreibung?
 MODULBESCHREIBUNGEN;Wo finde ich die Beschreibungen für die Module?
 MODULBESCHREIBUNGEN;Wo finde ich Informationen über die einzelnen Module?
 MODULBESCHREIBUNGEN;Wo finde ich die Beschreibungen für die einzelnen Fächer?
@@ -32,6 +36,10 @@ PRÜFUNGSLEISTUNGEN;Ich bin krank und muss mich von einer Prüfung abmelden
 PRÜFUNGSLEISTUNGEN;Abmeldung von einer Prüfung bei Krankheitsfall
 PRÜFUNGSLEISTUNGEN;Wo kann ich mich zur Prüfungseinsicht anmelden?
 PRÜFUNGSLEISTUNGEN;Wie kann ich meine Prüfung einsehen?
+PRÜFUNGSLEISTUNGEN;Wo kann ich mich für die Prüfungen anmelden?
+PRÜFUNGSLEISTUNGEN;Was mache ich, wenn ich am Prüfungstag krank bin?
+PRÜFUNGSLEISTUNGEN;Wie melde ich mich für Prüfungen ab?
+PRÜFUNGSLEISTUNGEN;Wie kann ich eine Einsicht für meine Prüfungen erhalten?
 STUDIENORDNUNG;Wo finde ich die aktuelle SPO?
 STUDIENORDNUNG;Wo kann ich die SPO einsehen?
 STUDIENORDNUNG;Wo finde ich die Studien- und Prüfungsordnung?
@@ -41,6 +49,8 @@ STUDIUM_GENERALE;Was muss ich machen um das Studium Generale zu bestehen?
 STUDIUM_GENERALE;Wie viele Social Credit Points benötige ich?
 STUDIUM_GENERALE;Was brauche ich für das Studium Generale?
 STUDIUM_GENERALE;Was ist das Studium Generale?
+STUDIUM_GENERALE;Wie erhalte ich SCP?
+STUDIUM_GENERALE;Was brauche ich für die Anerkennung des Studium Generale?
 UNBEDENKLICHKEIT;Wo finde ich die Unbedenklichkeitserklärung?
 UNBEDENKLICHKEIT;Wo kann ich die Unbedenklichkeitserklärung herunterladen?
 UNBEDENKLICHKEIT;Ich benötige eine Unbedenklichkeitserklärung im Zuge eines Hochschulwechsels.
@@ -49,25 +59,33 @@ EXMATRIKULIERUNG;Wo kann ich mich exmatrikulieren?
 EXMATRIKULIERUNG;Was muss ich ausfüllen, um mich zu exmatrikulieren?
 EXMATRIKULIERUNG;Wo finde ich den Antrag auf Exmatrikulation?
 EXMATRIKULIERUNG;Wie kann ich mich Exmatrikulieren?
+EXMATRIKULIERUNG;Was wird für die Exmatrikulation benötigt?
 SUMMERSCHOOL;Wie kann ich an der Summer School teilnehmen?
 SUMMERSCHOOL;Wo finde ich das Formular für die Summer School?
 SUMMERSCHOOL;Was ist die Summer School?
+SUMMERSCHOOL;Wo kann ich mich für die Summer School anmelden?
 PRAXISSEMESTER;Wann habe ich das Praxissemester zu absolvieren?
 PRAXISSEMESTER;Wann ist das Praxissemester geplant?
 PRAXISSEMESTER;Welche Formulare brauche ich für das Praxissemester?
 PRAXISSEMESTER;Wo finde ich Informationen zum Praxissemester?
 PRAXISSEMESTER;Wie kann ich mich zum Praxissemester abmelden?
+PRAXISSEMESTER;Welche Informationen brauche ich für die Durchführung des Praxissemesters?
+PRAXISSEMESTER;Was muss zur Anerkennung des Praxissemester abgegeben werden?
 BACHELORARBEIT;Wo finde ich die Anmeldung für die Bachelorarbeit?
 BACHELORARBEIT;Wie kann ich die Bearbeitungszeit für die Bachelorarbeit verlängern?
 BACHELORARBEIT;Wo finde ich den Antrag auf Verlängerung der Bearbeitungszeit der Bachelorarbeit?
 BACHELORARBEIT;Was brauche ich um die Bachelorarbeit abzugeben?
+BACHELORARBEIT;Wo finde ich das Formular zur Anmeldung der Bachelorarbeit?
+BACHELORARBEIT;Wo finde ich das Formular zur Abgabe der Bachelorarbeit?
+BACHELORARBEIT;Wo finde ich das Formular zur Verlängerung der Bachelorarbeit?
 AUSLANDSAMT;Kann ich im Ausland studieren?
 AUSLANDSAMT;Wann und wie ist das akademische Auslandsamt zu erreichen?
 AUSLANDSAMT;Wo kann ich mich über ein Auslandssemester informieren?
+AUSLANDSAMT;Was wird für die Durchführung des Auslandssemester von mir benötigt?
 VORLESUNGEN;Wann habe ich Vorlesung?
 VORLESUNGEN;Wann habe ich heute Vorlesung?
 VORLESUNGEN;Welche Vorlesungen habe ich?
-VORLESUNGEN;Wann habe ich diese Woche Vorlesungen?Wirtschaftsrecht,Wann habe ich Wirtschaftsrecht?
+VORLESUNGEN;Wann habe ich diese Woche Vorlesungen?
 Wirtschaftsrecht;Wann habe ich Wirtschaftsrecht?
 Wirtschaftsrecht;Wann habe ich heute Wirtschaftsrecht?
 Wirtschaftsrecht;Wann habe ich morgen Wirtschaftsrecht?

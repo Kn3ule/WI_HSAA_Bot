@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import os
 import logging
 from info import *
-from svm import svm
+from ml import NB_model, svm
 
 from postgres import my_session, Student, Module, Lecture_infos, enrolement_table
 
@@ -117,8 +117,12 @@ def echo(update: Update, context: CallbackContext):
 
     output = get_output(tag, update.message.text, update.message.from_user.id)
 
-    #context.bot.send_message(chat_id=update.effective_chat.id, text=update.message.text)
-    context.bot.send_message(chat_id=update.effective_chat.id, text=output, parse_mode='HTML')
+    for o in output:
+        if len(o) > 4096:
+            for x in range(0, len(o), 4096):
+                context.bot.send_message(chat_id=update.effective_chat.id, text=o[x:x+4096], parse_mode='HTML')
+        else:
+            context.bot.send_message(chat_id=update.effective_chat.id, text=o, parse_mode='HTML')
 
 
 def main():
