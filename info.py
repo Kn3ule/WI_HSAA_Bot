@@ -131,6 +131,14 @@ def get_date(input):
 
         return dates
 
+    elif 'nächste woche' in input:
+        dates = {
+            'startdate': (monday+ timedelta(7)),
+            'enddate' : ((monday + timedelta(7)) + timedelta(7))
+            }
+
+        return dates
+    
     else:
         dates = {
             'startdate': monday,
