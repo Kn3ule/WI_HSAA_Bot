@@ -1,5 +1,5 @@
 from numpy import average, vectorize
-from sklearn.metrics import accuracy_score, classification_report, f1_score, precision_score
+from sklearn.metrics import accuracy_score, classification_report, f1_score, precision_recall_fscore_support, precision_score
 from sklearn.naive_bayes import GaussianNB, MultinomialNB
 from sklearn.neighbors import KNeighborsClassifier, kneighbors_graph
 from sklearn.tree import DecisionTreeClassifier
@@ -33,6 +33,7 @@ for pattern in patterns:
 vectorizer.fit(X)
 le.fit(training_data['tags'])
 
+
 X = vectorizer.transform(X)
 y = le.transform(training_data['tags'])
 
@@ -42,10 +43,12 @@ trainx, testx, trainy, testy = tts(X, y, test_size=.25, random_state=42)
 svm_model = SVC(kernel='linear').fit(trainx, trainy)
 print("SVM:\naccuracy:", svm_model.score(testx, testy))
 svm_prediction = svm_model.predict(testx)
-#print("accuracy_score:", accuracy_score(testy, svm_prediction))
-print("precision score:", precision_score(testy, svm_prediction, average='weighted', zero_division=0))
-print("f1-score:", f1_score(testy, svm_prediction, average='weighted'))
-print(classification_report(testy, svm_prediction, zero_division=0))
+#print("precision score:", precision_score(testy, svm_prediction, average='weighted', zero_division=0))
+#print("f1-score:", f1_score(testy, svm_prediction, average='weighted'))
+#print(classification_report(testy, svm_prediction, zero_division=0))
+print('macro avg:', precision_recall_fscore_support(testy, svm_prediction,average='macro',zero_division=0))
+print('micro avg:', precision_recall_fscore_support(testy, svm_prediction,average='micro',zero_division=0))
+print('weigthed avg:', precision_recall_fscore_support(testy, svm_prediction,average='weighted',zero_division=0))
 print('\n\n')
 
 
@@ -53,27 +56,36 @@ print('\n\n')
 knn_model = KNeighborsClassifier(n_neighbors=2).fit(trainx, trainy)
 knn_prediction = knn_model.predict(testx)
 print("KNN: \naccuracy:", knn_model.score(testx, testy))
-print("precision score:", precision_score(testy, knn_prediction, average='weighted', zero_division=0))
-print("f1-score:", f1_score(testy, knn_prediction, average='weighted'))
-print(classification_report(testy,knn_prediction,zero_division=0))
+#print("precision score:", precision_score(testy, knn_prediction, average='weighted', zero_division=0))
+#print("f1-score:", f1_score(testy, knn_prediction, average='weighted'))
+#print(classification_report(testy,knn_prediction,zero_division=0))
+print('macro avg:', precision_recall_fscore_support(testy, knn_prediction,average='macro',zero_division=0))
+print('micro avg:', precision_recall_fscore_support(testy, knn_prediction,average='micro',zero_division=0))
+print('weigthed avg:', precision_recall_fscore_support(testy, knn_prediction,average='weighted',zero_division=0))
 print('\n\n')
 
 #define NB
 NB_model = GaussianNB().fit(trainx.toarray(),trainy)
 NB_prediction = NB_model.predict(testx.toarray())
 print("NB: \naccuracy:", NB_model.score(testx.toarray(), testy))
-print("precision score:", precision_score(testy, NB_prediction, average='weighted', zero_division=0))
-print("f1-score:", f1_score(testy, NB_prediction, average='weighted'))
-print(classification_report(testy,NB_prediction,zero_division=0))
+#print("precision score:", precision_score(testy, NB_prediction, average='weighted', zero_division=0))
+#print("f1-score:", f1_score(testy, NB_prediction, average='weighted'))
+#print(classification_report(testy,NB_prediction,zero_division=0))
+print('macro avg:', precision_recall_fscore_support(testy, NB_prediction,average='macro',zero_division=0))
+print('micro avg:', precision_recall_fscore_support(testy, NB_prediction,average='micro',zero_division=0))
+print('weigthed avg:', precision_recall_fscore_support(testy, NB_prediction,average='weighted',zero_division=0))
 print('\n\n')
 
 #define decision tree algo
 dt_model = DecisionTreeClassifier().fit(trainx, trainy)
 dt_prediction = dt_model.predict(testx)
 print("Decision Tree: \naccuracy:", dt_model.score(testx.toarray(), testy))
-print("precision score:", precision_score(testy, dt_prediction, average='weighted', zero_division=0))
-print("f1-score:", f1_score(testy, dt_prediction, average='weighted'))
-print(classification_report(testy,dt_prediction,zero_division=0))
+#print("precision score:", precision_score(testy, dt_prediction, average='weighted', zero_division=0))
+#print("f1-score:", f1_score(testy, dt_prediction, average='weighted'))
+#print(classification_report(testy,dt_prediction,zero_division=0))
+print('macro avg:', precision_recall_fscore_support(testy, dt_prediction,average='macro',zero_division=0))
+print('micro avg:', precision_recall_fscore_support(testy, dt_prediction,average='micro',zero_division=0))
+print('weigthed avg:', precision_recall_fscore_support(testy, dt_prediction,average='weighted',zero_division=0))
 print('\n\n')
 
 
@@ -93,5 +105,11 @@ def knn(user_input):
 def NB(user_input):
     transform_input = vectorizer.transform([preprocess(user_input)])
     tag = le.inverse_transform(NB_model.predict(transform_input.toarray()))[0]
+
+    return tag
+
+def dt(user_input):
+    transform_input = vectorizer.transform([preprocess(user_input)])
+    tag = le.inverse_transform(dt_model.predict(transform_input.toarray()))[0]
 
     return tag
