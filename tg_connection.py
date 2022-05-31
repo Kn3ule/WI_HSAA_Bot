@@ -108,6 +108,31 @@ def delete_module(update: Update, context: CallbackContext):
     except:
         context.bot.send_message(chat_id=update.effective_chat.id, text= "Modul konnte nicht entfernt werden!", parse_mode = 'HTML')
 
+def help(update: Update, context: CallbackContext):
+    return_string = (
+        '<b> Hilfe: </b>\n\n'
+        'Modulübersicht: /modules \n'
+        'Modul hinzufügen: /add {id}\n'
+        'Modul entfernen: /delete {id}\n\n'
+        'Für andere Informationen Fragen sie mich einfach in natürlicher Sprache :D\n'
+        'Ich gebe Informationen über folgende Themen:\n'
+        'Vorlesungen\n'
+        'Stundenplan\n'
+        'Praxissemester\n'
+        'Allgemeine Informationen\n'
+        'Beurlaubung\n'
+        'Leistungsannerkennung\n'
+        'Modulbeschreibungen\n'
+        'Prüfungen\n'
+        'SPO\n'
+        'Studium Generale\n'
+        'Exmatrikulation\n'
+        'Summerschool'
+        'Bachelorarbeit\n'
+        'Auslandssemester\n'
+    )
+    context.bot.send_message(chat_id=update.effective_chat.id, text=return_string, parse_mode = 'HTML')
+
     
 
 
@@ -136,6 +161,7 @@ def main():
     modules_handler = CommandHandler('modules', modules)
     addmodule_handler = CommandHandler('add', add_module)
     deletemodules_handler = CommandHandler('delete', delete_module)
+    help_handler = CommandHandler('help', help)
     echo_handler = MessageHandler(Filters.text & (~Filters.command), echo)
     
     #add handler to dispatcher
@@ -144,6 +170,7 @@ def main():
     dispatcher.add_handler(modules_handler)
     dispatcher.add_handler(addmodule_handler)
     dispatcher.add_handler(deletemodules_handler)
+    dispatcher.add_handler(help_handler)
     updater.start_polling()
 
 
