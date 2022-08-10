@@ -90,7 +90,7 @@ def get_news():
 
     #check if 
     if len(feed.entries) == 0:
-        return 'Keine Neuigkeiten im Studiengang Wirtschaftsinformatik'
+        return ['Keine Neuigkeiten im Studiengang Wirtschaftsinformatik']
 
 
     output = [f'<b>  Neues im Studiengang Wirtschaftsinformatik: </b> \n\n']
@@ -255,6 +255,7 @@ for module in all_modules:
 
     func_list[f'{name}'] =  get_lecture_info
 
+#define tags to find the important Downloads
 download_tags = {
     'INFORMATIONEN_STUDIUM': 'Allgemeine Informationen zum Studium',
     'BEURLAUBUNG': 'Antrag auf Beurlaubung',

@@ -1,16 +1,9 @@
-from sys import modules
-
-from requests import session
-
 from sqlalchemy import desc
 from icalendar import Calendar
-from datetime import datetime, timedelta, timezone
-from numpy import blackman
-import requests
 from postgres import my_session, Student, Module, Lecture_infos
 
 
-#funktion zum auslesen der Modulinfos aus den ical Dateien
+#function to read the modules
 def get_module_from_ical(cal):
     modules = []
     for component in cal.walk():
@@ -51,6 +44,7 @@ def get_module_from_ical(cal):
     
     return modules
 
+#function to read the lecture dates
 def get_lecture_dates_from_ical(cal):
     lecture_data = []
 
@@ -96,13 +90,15 @@ def main():
     calWI4 = Calendar.from_ical(open('splan_SoSe22_WI_S4.ics','rb').read())
     calWI6 = Calendar.from_ical(open('splan_SoSe22_WI_S6.ics','rb').read())
 
-    calWI = [calWI2, calWI4, calWI6]
+    #calWI = [calWI2, calWI4, calWI6]
+    calWI = [Calendar.from_ical(open('splan_evaluation.ics','rb').read())]
 
     #get the module infos from the ical and create Objects in the Database
-    """ for cal in calWI:
+    '''for cal in calWI:
         modules = get_module_from_ical(cal)
         for module in modules:
-            create_module(module["name"], module["number"], module["lecturer"], module["semester"], module["canvas"]) """
+            create_module(module["name"], module["number"], module["lecturer"], module["semester"], module["canvas"])'''
+
     for cal in calWI:
         lecture_data = get_lecture_dates_from_ical(cal)
         for date in lecture_data:
