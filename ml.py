@@ -1,4 +1,3 @@
-from numpy import average, vectorize
 from sklearn.metrics import accuracy_score, classification_report, f1_score, precision_recall_fscore_support, precision_score
 from sklearn.naive_bayes import GaussianNB, MultinomialNB
 from sklearn.neighbors import KNeighborsClassifier, kneighbors_graph

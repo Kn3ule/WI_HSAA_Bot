@@ -94,10 +94,10 @@ def main():
     calWI = [Calendar.from_ical(open('splan_evaluation.ics','rb').read())]
 
     #get the module infos from the ical and create Objects in the Database
-    '''for cal in calWI:
+    for cal in calWI:
         modules = get_module_from_ical(cal)
         for module in modules:
-            create_module(module["name"], module["number"], module["lecturer"], module["semester"], module["canvas"])'''
+            create_module(module["name"], module["number"], module["lecturer"], module["semester"], module["canvas"])
 
     for cal in calWI:
         lecture_data = get_lecture_dates_from_ical(cal)
