@@ -2,6 +2,13 @@
 In diesem Repository befindet sich der Source Code zu meiner Bachelorarbeit im Studiengang Wirtschaftsinformatik an der Hochschule Aalen.
 Der Titel dieser Abschlussarbeit lautet: "Konzeption und Entwicklung eines Chatbots zur Informationsbeschaffung für Studierende des Studiengangs Wirtschaftsinformatik an der Hochschule Aalen".
 
+## Benutzte Technologien:
+- Python
+- PostgreSQL
+- Data Preprocessing mit NLTK & Pandas
+- ML (Classification) mit Scikitlearn
+- Kommunikation mit Telegram über die Python-Telegram-Bot Biliothek
+
 ## Installation:
 
 ### 1. öffne das Projekt in einem Texteditor (z.B. VS-Code)
