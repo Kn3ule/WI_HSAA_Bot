@@ -2,6 +2,9 @@
 In diesem Repository befindet sich der Source Code zu meiner Bachelorarbeit im Studiengang Wirtschaftsinformatik an der Hochschule Aalen.
 Der Titel dieser Abschlussarbeit lautet: "Konzeption und Entwicklung eines Chatbots zur Informationsbeschaffung für Studierende des Studiengangs Wirtschaftsinformatik an der Hochschule Aalen".
 
+[Link zur Arbeit](https://github.com/Kn3ule/WI_HSAA_Bot/files/14344930/Bachelorarbeit_Tim_Konle.pdf)
+
+
 ## Benutzte Technologien:
 - Python
 - PostgreSQL
