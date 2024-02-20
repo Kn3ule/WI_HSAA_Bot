@@ -9,6 +9,14 @@ Der Titel dieser Abschlussarbeit lautet: "Konzeption und Entwicklung eines Chatb
 - ML (Classification) mit Scikitlearn
 - Kommunikation mit Telegram über die Python-Telegram-Bot Biliothek
 
+## Architektur:
+![Konzept Chatbot](https://github.com/Kn3ule/WI_HSAA_Bot/assets/75367399/aab79453-f142-445f-9677-6202b7c48615)
+
+## Beispiele:
+<img width="1371" alt="WIHSAA_BOT" src="https://github.com/Kn3ule/WI_HSAA_Bot/assets/75367399/56cbc6a6-7ab5-496b-90c7-f55d7878bc0c">
+<img width="1371" alt="WIHSAA_BOT2" src="https://github.com/Kn3ule/WI_HSAA_Bot/assets/75367399/2b08a60b-9959-41fd-816a-7dfae7d0f324">
+
+
 ## Installation:
 
 ### 1. öffne das Projekt in einem Texteditor (z.B. VS-Code)
