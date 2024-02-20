@@ -5,7 +5,7 @@ Der Titel dieser Abschlussarbeit lautet: "Konzeption und Entwicklung eines Chatb
 ## Benutzte Technologien:
 - Python
 - PostgreSQL
-- Data Preprocessing mit NLTK & Pandas
+- Data Preprocessing mit Spacy & Pandas
 - ML (Classification) mit Scikitlearn
 - Kommunikation mit Telegram über die Python-Telegram-Bot Biliothek
 
